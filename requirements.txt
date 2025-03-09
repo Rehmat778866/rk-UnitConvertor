@@ -1,0 +1,3 @@
+streamlit
+forex-python
+pint
