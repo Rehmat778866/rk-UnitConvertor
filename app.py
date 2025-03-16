@@ -101,7 +101,7 @@ elif menu == "Contact":
     st.write("*City:*  Karachi pakistan")
     st.write("*Slot:*  Giaic Q3 Wednesday (7 - 10 pm)")
     st.write("*Email:* rehmatkhalid11@gmail.com ")
-    st.write("*LinkedIn:* [Rehmat Khalid LinkedIn](www.linkedin.com/in/rehmatkhalid)")
+    st.write("*LinkedIn:* [Rehmat Khalid LinkedIn](https://www.linkedin.com/in/rehmatkhalid?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
     st.write("*GitHub:* [Rehmat Khalid GitHub](https://github.com/Rehmat778866?tab=repositories)")
 
 # Footer
